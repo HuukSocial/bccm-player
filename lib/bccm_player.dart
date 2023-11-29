@@ -42,3 +42,4 @@ export 'src/utils/time.dart' show calcTimeLeftMs;
 export 'src/pigeon/downloader_pigeon.g.dart'
     show DownloadConfig, Download, DownloadChangedEvent, DownloadRemovedEvent, DownloadFailedEvent, DownloadStatus;
 export 'src/downloader_platform_interface.dart';
+export 'src/predownload_platform_interface.dart';
